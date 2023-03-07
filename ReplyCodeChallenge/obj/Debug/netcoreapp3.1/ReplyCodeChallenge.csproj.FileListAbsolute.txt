@@ -1,0 +1,13 @@
+C:\Users\Joey\Desktop\ReplyCodeChallenge\ReplyCodeChallenge\obj\Debug\netcoreapp3.1\ReplyCodeChallenge.csprojAssemblyReference.cache
+C:\Users\Joey\Desktop\ReplyCodeChallenge\ReplyCodeChallenge\obj\Debug\netcoreapp3.1\ReplyCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\Joey\Desktop\ReplyCodeChallenge\ReplyCodeChallenge\obj\Debug\netcoreapp3.1\ReplyCodeChallenge.AssemblyInfo.cs
+C:\Users\Joey\Desktop\ReplyCodeChallenge\ReplyCodeChallenge\obj\Debug\netcoreapp3.1\ReplyCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Joey\Desktop\ReplyCodeChallenge\ReplyCodeChallenge\bin\Debug\netcoreapp3.1\ReplyCodeChallenge.exe
+C:\Users\Joey\Desktop\ReplyCodeChallenge\ReplyCodeChallenge\bin\Debug\netcoreapp3.1\ReplyCodeChallenge.deps.json
+C:\Users\Joey\Desktop\ReplyCodeChallenge\ReplyCodeChallenge\bin\Debug\netcoreapp3.1\ReplyCodeChallenge.runtimeconfig.json
+C:\Users\Joey\Desktop\ReplyCodeChallenge\ReplyCodeChallenge\bin\Debug\netcoreapp3.1\ReplyCodeChallenge.runtimeconfig.dev.json
+C:\Users\Joey\Desktop\ReplyCodeChallenge\ReplyCodeChallenge\bin\Debug\netcoreapp3.1\ReplyCodeChallenge.dll
+C:\Users\Joey\Desktop\ReplyCodeChallenge\ReplyCodeChallenge\bin\Debug\netcoreapp3.1\ReplyCodeChallenge.pdb
+C:\Users\Joey\Desktop\ReplyCodeChallenge\ReplyCodeChallenge\obj\Debug\netcoreapp3.1\ReplyCodeChallenge.dll
+C:\Users\Joey\Desktop\ReplyCodeChallenge\ReplyCodeChallenge\obj\Debug\netcoreapp3.1\ReplyCodeChallenge.pdb
+C:\Users\Joey\Desktop\ReplyCodeChallenge\ReplyCodeChallenge\obj\Debug\netcoreapp3.1\ReplyCodeChallenge.genruntimeconfig.cache
